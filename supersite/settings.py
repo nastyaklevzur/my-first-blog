@@ -25,7 +25,7 @@ SECRET_KEY = '7y53ep)*o8!f+x2u-49*qu+rmetaj04(t%vrm&5!#&y(%t*ll2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [‘nastyaklevzur.pythonanywhere.com’]
+ALLOWED_HOSTS = ['nastyaklevzur.pythonanywhere.com']
 
 
 # Application definition
